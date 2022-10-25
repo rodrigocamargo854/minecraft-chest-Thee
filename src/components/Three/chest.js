@@ -1,7 +1,6 @@
 import React, { useRef } from 'react'
 import { useGLTF } from '@react-three/drei'
 import { useSpring, a } from 'react-spring/three';
-
 // Chest Sound
 import chestOpenSound from '../../assets/sound/open-chest.mp3';
 import chestCloseSound from '../../assets/sound/close-chest.mp3';
